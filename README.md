@@ -1,2 +1,2 @@
 # project-6
-this is postman clone used for getting post and get request through api
+Postman is an API platform for developers to design, build, test and iterate their APIs.
